@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://6tan7.github.io/sitemap.xml
